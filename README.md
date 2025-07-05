@@ -39,19 +39,38 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallav46&layout=compact&theme=default&hide_border=true" width="48%"/>
 </div>
 
-
 ---
 
 ### 🚀 My Projects
 
-<p align="center">
-  <a href="https://github.com/Pallav46/MicroserviceMoodScape">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallav46&repo=MicroserviceMoodScape&theme=dracula" />
-  </a>
-  <a href="https://github.com/Pallav46/Cryuze">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallav46&repo=Cryuze&theme=dracula" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pallav46/MicroserviceMoodScape" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pallav46&repo=MicroserviceMoodScape&theme=radical" />
+      </a>
+      <p>🎧 Real-time facial emotion detection and personalized music with microservices.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pallav46/Cryuze" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pallav46&repo=Cryuze&theme=radical" />
+      </a>
+      <p>📍 Hyperlocal service platform with real-time chat & secure Razorpay payments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Pallav46/ProxyServer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pallav46&repo=ProxyServer&theme=radical" />
+      </a>
+      <p>⚙️ Scalable reverse proxy server with clustering, caching & load balancing.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
