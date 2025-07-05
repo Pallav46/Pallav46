@@ -34,6 +34,29 @@
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🧠 [MicroserviceMoodScape](https://github.com/Pallav46/MicroserviceMoodScape)
+> 🎧 AI-powered mood detection with microservice architecture and real-time analytics.
+
+#### 🎭 [Cryuze](https://github.com/Pallav46/Cryuze)
+> 🎮 3D human-like virtual chatbot using Dialogflow, RAG with Gemini, multilingual & voice-assisted.
+
+#### 🌐 [ProxyServer](https://github.com/Pallav46/ProxyServer)
+> ⚡ High-performance proxy server built with load balancing and real-time monitoring.
+
+---
+
+### 📊 GitHub Contribution Heatmap
+
+<p align="center">
+  <img src="https://github.com/Pallav46/Pallav46/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> 🐍 Above animation shows your contributions eating across the GitHub heatmap!
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -53,11 +76,11 @@
 
 ---
 
-### 🚀 Fun Extras
+### ⚡ Fun Facts
 
-- 🧠 Always learning something new.
-- 💬 Ask me about React, Node, Java, or anything tech-related.
-- 🌟 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- 🧠 Always learning something new
+- 💬 Ask me about React, Node, Java, or anything tech-related
+- 🌟 Quote: “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 - ⚡ Fun fact: I debug faster at night 🌙
 
 ---
@@ -72,4 +95,4 @@
 
 ---
 
-> 🧩 *This README is auto-themed based on your GitHub preferences (dark/light). Feel free to customize anything!*
+> 🌈 *Auto-themed, responsive, and tailored for impact. Customize any section further if you'd like!*
