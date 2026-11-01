@@ -7,7 +7,7 @@
     Hi there, I'm Pallav Kumar 👋
   </h1>
   
-  <h3>A Full-Stack Developer passionate about creating robust and scalable web solutions.</h3>
+  <h3>Software Engineer at Tekion working on CI/CD, Kubernetes and Tekton, and a contributor to open-source infrastructure projects.</h3>
 
   <!-- Social Icons -->
   <p>
@@ -29,10 +29,23 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building microservices and exploring system design patterns.
-- 🌱 I’m deepening my knowledge in **GoLang** and **DevOps** practices.
-- 💬 Ask me about the **MERN Stack**, **Java (DSA)**, or anything tech-related!
+- 🔭 Currently at **Tekion**, working on Tekton pipelines, Kubernetes and release engineering.
+- 🌱 Learning and writing about **Go**, **Kubernetes controllers** and **DevOps** practices.
+- 🤝 Contributing to open-source projects such as **Tekton Results** and **kkRepo**.
+- 💬 Ask me about **Tekton**, the **MERN stack**, **Java (DSA)**, or anything tech-related!
 - 📫 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/pallav-kumar-990435258/).
+
+---
+
+### 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [**tektoncd/results**](https://github.com/tektoncd/results) | [Made the watcher's informer resync period configurable (`-resync_period`)](https://github.com/tektoncd/results/pull/1523) | ✅ Merged |
+| [**klboke/kkRepo**](https://github.com/klboke/kkRepo) | [Resizable tree/detail split pane](https://github.com/klboke/kkRepo/pull/379) | ✅ Merged |
+| [**klboke/kkRepo**](https://github.com/klboke/kkRepo) | [Explain the empty Upload page instead of silently redirecting](https://github.com/klboke/kkRepo/pull/382) | ✅ Merged |
+| [**klboke/kkRepo**](https://github.com/klboke/kkRepo) | [Show Hosted and Group modes for Go and Helm on the welcome page](https://github.com/klboke/kkRepo/pull/398) | ✅ Merged |
+| [**alirezarezvani/claude-skills**](https://github.com/alirezarezvani/claude-skills) | [Changed the Augment integration from flat rules to skill bundles](https://github.com/alirezarezvani/claude-skills/pull/576) | ✅ Merged |
 
 ---
 
@@ -43,7 +56,7 @@
 
 ---
 
-### 🚀 My Projects
+### 🚀 Projects (built during college)
 
 <div align="center">
 
